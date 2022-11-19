@@ -1,7 +1,7 @@
 
 Uses guide for JacobiG.
 
-The codes are used to tensor diagonalization for symmetric (real or complex) tensors,
+The codes are used to tensor diagonalization for symmetric (complex) tensors,
 and are downloaded from https://github.com/kdu/jacobi-G-unitary-matlab.
 
 The main contributors to this code are Usevich, Li and Comon.
